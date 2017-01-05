@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repo contains all the major assignments in my masters coursework.
 Astar
 RRT
@@ -6,3 +7,6 @@ Vision exercise involving basic image processing such as erosion, dilation follo
 Determination of Essential, Fundamental matrix and the epipoles.
 Dense Stereo Matching
 RANSAC
+=======
+This repo contains all the assignments in my masters coursework. It is coded in matlab.
+>>>>>>> 9bc0b03c4526b2d6b7deaccecabe5b127fbb484f
