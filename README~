@@ -1,1 +1,8 @@
 This repo contains all the major assignments in my masters coursework.
+Astar
+RRT
+Vision exercise involving basic image processing such as erosion, dilation followed by the detecting the object by the colour and using hough tranform to determine the ball.
+
+Determination of Essential, Fundamental matrix and the epipoles.
+Dense Stereo Matching
+RANSAC
